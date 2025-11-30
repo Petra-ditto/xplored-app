@@ -9,10 +9,7 @@ import streamlit as st
 import plotly.express as px
 import json
 import os
-import pipreqs
 
-#pipreqs '/Users/petraszabolcsi/PycharmProjects/PythonProject'
-pip freeze
 #Username database
 DATA_FILE = "users_data.json"
 
